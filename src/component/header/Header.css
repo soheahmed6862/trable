@@ -1,0 +1,11 @@
+.header li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 20px;
+}
+.li{
+    display: inline-block;
+}
+.header{
+    text-align: center;
+}

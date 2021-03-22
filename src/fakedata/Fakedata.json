@@ -1,0 +1,56 @@
+[
+    {
+      "_id": "60578c6f5b918f4b8009843f",
+      "picture": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/IMG/308/47308/image-2-ashok-leyland-launches-circuit-series-first-electric-bus-made-in-india.jpg&h=490&w=735",
+      
+      "img":"https://i.pinimg.com/originals/74/b1/da/74b1da8a7eeabb4ab87ea1a44059543f.jpg",
+      "name": "bus",
+      "price": 514,
+      "sit": 20,
+      "bus":"tish",
+      "bus1":"royel",
+       "location": "Cumilla to dhaka",
+       "price2": 500,
+       "price3": 467
+    },
+    {
+      "_id": "60578c6fcab9b1c7777cd709",
+      "picture": "https://images.all-free-download.com/images/graphicthumb/chinese_highspeed_train_199108.jpg",
+
+      "name": "train",
+      "bus":"tish",
+      "bus1":"royel",
+      "price2": 500,
+      "price3": 467,
+      "price": 514,
+      "sit": 20,
+       "location": "Cumilla to dhaka"
+    },
+    {
+      "_id": "60578c6f82e97d1865b4af5b",
+      "picture": "https://i.ytimg.com/vi/F5Zi-Dh43PE/hqdefault.jpg",
+      "name": "chyke",
+      "price1": 567,
+      "bus":"tish",
+      "bus1":"royel",
+      "price2": 500,
+      "price3": 467,
+
+      "sit": 20,
+      "location": "Cumilla to dhaka"
+      
+    },
+    {
+      "_id": "60578c6f16c0e25dd22ecae5",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/7/74/Megelli_Sports_motorcycle.jpg",
+      "name": "motorbike",
+      "price": 550,
+      "bus":"tish",
+      "bus1":"royel",
+      "sit": 20,
+      "price2": 500,
+      "price3": 467,
+      "location": "Cumilla to dhaka"
+    }
+  
+  ]
